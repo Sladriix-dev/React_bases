@@ -1,3 +1,4 @@
+
 import monstera from '../assets/monstera.jpg'
 
 export const plantList = [
